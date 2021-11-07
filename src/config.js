@@ -37,13 +37,16 @@ const layerConfigurations = [
       { name: "Shine" },
       { name: "Bottom lid" },
       { name: "Top lid" },
+      { name: "Goo" },
+      { name: "Upper Eyelash" },
+      { name: "Lower Eyelash" },
     ],
   },
 ];
 
 const shuffleLayerConfigurations = false;
 
-const debugLogs = false;
+const debugLogs = true;
 
 const format = {
   width: 512,
